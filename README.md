@@ -1,1 +1,1 @@
-ini adalah kalkulator sederhana yang menggunakan pho
+ini adalah kalkulator sederhana yang menggunakan php
